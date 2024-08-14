@@ -1,0 +1,14 @@
+C:\Users\Test User\source\repos\ListLab\ListLab\bin\Debug\net8.0\ListLab.exe
+C:\Users\Test User\source\repos\ListLab\ListLab\bin\Debug\net8.0\ListLab.deps.json
+C:\Users\Test User\source\repos\ListLab\ListLab\bin\Debug\net8.0\ListLab.runtimeconfig.json
+C:\Users\Test User\source\repos\ListLab\ListLab\bin\Debug\net8.0\ListLab.dll
+C:\Users\Test User\source\repos\ListLab\ListLab\bin\Debug\net8.0\ListLab.pdb
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\ListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\ListLab.AssemblyInfoInputs.cache
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\ListLab.AssemblyInfo.cs
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\ListLab.csproj.CoreCompileInputs.cache
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\ListLab.dll
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\refint\ListLab.dll
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\ListLab.pdb
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\ListLab.genruntimeconfig.cache
+C:\Users\Test User\source\repos\ListLab\ListLab\obj\Debug\net8.0\ref\ListLab.dll
